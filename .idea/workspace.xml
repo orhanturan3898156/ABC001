@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a5d7165-c91e-4cb6-85fc-34aece5f38e1" name="Default Changelist" comment="" />
+    <list default="true" id="8a5d7165-c91e-4cb6-85fc-34aece5f38e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,13 +19,31 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> 4e6178a8a35c375c9f3bca88f200086f11983d6a
+  </component>
   <component name="ProjectId" id="1f60T5zI64ThhyNEwnVfqlDbqSy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager" selected="Application.test01">
@@ -66,9 +88,36 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="451" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595692081765">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="451" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.-43.1280.680@0.0.1280.680" timestamp="1595692081765" />
+=======
+    <state x="2053" y="214" key="FileChooserDialogImpl" timestamp="1595597613415">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2053" y="214" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1595597613415" />
+    <state width="1311" height="285" key="GridCell.Tab.0.bottom" timestamp="1595564215452">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1311" height="285" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595554695857" />
+    <state width="1311" height="285" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1595564215452" />
+    <state width="1311" height="285" key="GridCell.Tab.0.center" timestamp="1595564215444">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1311" height="285" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595554695857" />
+    <state width="1311" height="285" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1595564215444" />
+    <state width="1311" height="285" key="GridCell.Tab.0.left" timestamp="1595564215419">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1311" height="285" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595554695856" />
+    <state width="1311" height="285" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1595564215419" />
+    <state width="1311" height="285" key="GridCell.Tab.0.right" timestamp="1595564215444">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1311" height="285" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595554695857" />
+    <state width="1311" height="285" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1595564215444" />
+>>>>>>> origin/master
   </component>
 </project>
