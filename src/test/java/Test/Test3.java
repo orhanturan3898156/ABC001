@@ -7,5 +7,6 @@ public class Test3 {
         System.out.println("heyheyheyhey");
         System.out.println("naber");
         System.out.println("4567");
+        System.out.println("101010");
     }
 }
