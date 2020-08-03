@@ -5,6 +5,7 @@ public class test01 {
         System.out.println("hi");
 
         System.out.println("first project");
+        System.out.println("second project");
 
         ///hiii
 
