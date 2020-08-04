@@ -6,6 +6,7 @@ public class Test3 {
         System.out.println("jkskla");
         System.out.println("1oo");
         System.out.println("2oo");
+        System.out.println("3oo");
        
         
       
