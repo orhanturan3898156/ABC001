@@ -12,7 +12,7 @@ public class Test3 {
         System.out.println(700);
         System.out.println(800);
        
-        System.out.println(9000);
+        System.out.println(900);
 
 
 
