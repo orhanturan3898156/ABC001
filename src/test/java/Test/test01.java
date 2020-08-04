@@ -7,6 +7,7 @@ public class test01 {
         System.out.println("first project");
         System.out.println("second project");
         System.out.println("second project");
+        System.out.println(300);
 
         ///hiii
 
