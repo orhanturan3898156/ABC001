@@ -12,7 +12,6 @@ public class Test3 {
         System.out.println("6oo");
         System.out.println("7oo");
 
-        System.out.println("8oo");
 
 
     }
