@@ -10,6 +10,7 @@ public class Test3 {
         System.out.println("4oo");
         System.out.println("5oo");
         System.out.println("6oo");
+        System.out.println("7oo");
         
       
     }
