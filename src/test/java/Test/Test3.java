@@ -6,7 +6,10 @@ public class Test3 {
         System.out.println(100);
       
        
-        
+        System.out.println(900);
+
+
+
       
     }
 }
