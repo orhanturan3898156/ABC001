@@ -6,6 +6,7 @@ public class test01 {
         System.out.println(200);
         System.out.println(300);
         System.out.println(400);
+        System.out.println(1000);
 
 
 
