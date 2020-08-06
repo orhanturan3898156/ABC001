@@ -7,7 +7,7 @@ public class test01 {
         System.out.println(300);
         System.out.println(400);
         System.out.println(1000);
-        System.out.println(25);
+        System.out.println(2000);
 
 
 
