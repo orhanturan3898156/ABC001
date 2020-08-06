@@ -5,6 +5,8 @@
     <list default="true" id="8a5d7165-c91e-4cb6-85fc-34aece5f38e1" name="Default Changelist" comment="" />
 =======
     <list default="true" id="8a5d7165-c91e-4cb6-85fc-34aece5f38e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
 >>>>>>> origin/master
