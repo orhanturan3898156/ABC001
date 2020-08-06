@@ -4,8 +4,6 @@ public class Test2 {
 
     public static void main(String[] args) {
         System.out.println("main github");
-        System.out.println(300);
-        System.out.println(400);
-        System.out.println(300);
+      
     }
 }
