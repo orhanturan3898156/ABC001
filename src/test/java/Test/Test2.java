@@ -8,6 +8,7 @@ public class Test2 {
         System.out.println(200);
         System.out.println(1100);
         System.out.println(2200);
+        System.out.println(50000);
       
     }
 }
